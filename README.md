@@ -1,4 +1,4 @@
-# TypeScript NodeJS Boilerplate
+# TypeScript NodeJS Boilerplate *CommonJS*
 
 To use this boilerplate, either clone it using `git clone`, download it as ZIP or use [GitHub Repository Import](https://github.com/new/import).
 
