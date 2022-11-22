@@ -7,8 +7,11 @@ The following are configured:
 - TypeScript
 - Yarn
 - Jest
-- Custom base path with `@` for `src/`
 - ESLINT
+- Custom base path with `@` for `src/`
+- Auto reload with `ts-node-dev`
+- Prettier
+
 
 And the following scripts:
 
